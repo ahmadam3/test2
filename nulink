@@ -26,7 +26,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 sudo docker run hello-world
 
-وقتی پیام hello world  رو دریافت میکنید به سراغ نصب پکیج نود nulink می رید 
+وقتی پیام hello world  رو سراغ نصب پکیج نود nulink می رید 
 
 sudo apt update && sudo apt upgrade -y
 

@@ -91,7 +91,7 @@ export NULINK_KEYSTORE_PASSWORD=xxxxxxxxxxxx
 
 export NULINK_OPERATOR_ETH_PASSWORD=xxxx
 
-در اینجا هم به جای ایکس ها اون پسوردی که بالاتر دادید رو دوباره وارد کنید
+در اینجا هم به جای ایکس ها اون پسوردی که بالاتر دادید رو دوبارد کنید
 
 docker run -it --rm \
 -p 9151:9151 \
